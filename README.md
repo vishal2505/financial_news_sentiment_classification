@@ -9,7 +9,7 @@
 
 1.  Copy  example.env to .env file and provide the api keys.
 
-2.  pipenn install
+2.  pipenv install
 
 3.  pipenv shell
 
